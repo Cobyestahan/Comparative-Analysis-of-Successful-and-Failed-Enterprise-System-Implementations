@@ -1,1 +1,7 @@
-# Comparative-Analysis-of-Successful-and-Failed-Enterprise-System-Implementations
+  b.1. company overview (Why the enterprise system was implemented) dahilayan forest park have a beautiful theme and a succesful organizations to streamline their internal and external processes, data, reports and analytics flows are a set of well-defined rules or procedures that work together to achieve a common goal. In business, systems include processes, and technology working in harmony to produce specific outcomes like collecting data sales on week how there rise on there sales and to improve the park operational efficiency and the visitor experience.
+    
+     b.2. implementation process there use Enterprise systems are often deployed by organizations to streamline processes, improve data management, and ensure seamless operations across various departments to insure the best experience on there management with a sophisticated system, the park could improve its booking process, reduce waiting times, and offer personalized services for visitors, boosts customer satisfaction and repeat visits.
+    
+     b.3. Key success factors is there cool climate and stunning forest views, attracting tourists seeking both adventure and nature immersion are the key of there succesful implementaion on the park and the connections of the paras family becouse there known famly name. 
+   
+     b.4. outcomes & impact# Comparative-Analysis-of-Successful-and-Failed-Enterprise-System-Implementation.
